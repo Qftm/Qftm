@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- Blog: https://qftm.github.io
-- Twitter: https://twitter.com/Qftmer
-- Currently working on Security Researcher
+- Currently working on Security Researcher 🔭
+- Blog: https://qftm.github.io 👣
+- Twitter: https://twitter.com/Qftmer 🌈
