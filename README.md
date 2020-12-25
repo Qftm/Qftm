@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Qftm&count_private=true&show_icons=true&theme=radical" width="420">
 
-### I'm Qftm
+### I'm Qftm ,
 
 - Currently working on Security Researcher 🕶️
 - Blog: https://qftm.github.io 👣
