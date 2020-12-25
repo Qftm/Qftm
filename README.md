@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Qftm/Qftm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Qftm&count_private=true&show_icons=true&theme=radical" width="420">
+
+### About Me
+
+- Security Researcher
+- Blog: https://qftm.github.io
+- Twitter: https://twitter.com/Qftmer
+- Currently working on Security Researcher
