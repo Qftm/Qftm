@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- Security Researcher
 - Blog: https://qftm.github.io
 - Twitter: https://twitter.com/Qftmer
 - Currently working on Security Researcher
