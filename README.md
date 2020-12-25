@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Qftm&count_private=true&show_icons=true&theme=radical" width="420">
-
-### About Me
+## About Me
 
 - Currently working on Security Researcher 🕶️
 - Blog: https://qftm.github.io 👣
