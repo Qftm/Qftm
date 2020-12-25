@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **Qftm/Qftm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- Currently working on Security Researcher 🔭
+- Currently working on Security Researcher 🔭 🕶️
 - Blog: https://qftm.github.io 👣
 - Twitter: https://twitter.com/Qftmer 🌈
